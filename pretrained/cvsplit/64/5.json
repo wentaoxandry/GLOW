@@ -1,0 +1,1551 @@
+{
+    "86fd2c1e61e412a209134f1a6f4a5a39": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:537809\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:525281\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:4325\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:4325\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:3803\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:1159030\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:1132030\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:9280\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:9280\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:8155\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:9448136\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:9228032\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:75374\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:75374\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:66203\n"
+        }
+    },
+    "f6eac0a8820f68b37a4ed82083dc3c9f": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:49493590\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:48340582\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:394666\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:394666\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:346624\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:56568066\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:55250250\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:451068\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:451068\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:396159\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:70207071\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68571519\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:559815\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:559815\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:491667\n"
+        }
+    },
+    "4c607d395fcaf4b4191d0a296b2ba613": {
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:20630080\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:20149480\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:164530\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:164530\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:144505\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:25813083\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:25211739\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:205851\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:205851\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:180795\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:30476863\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:29766871\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:243037\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:243037\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:213454\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:87415759\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:85379311\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:697015\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:697015\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:612163\n"
+        }
+    },
+    "473a51eb60dc6bd0bf7fb567e30cdfdc": {
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:5025421\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:4908349\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:40105\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:40105\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:35227\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14084101\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:13755997\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:112339\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:112339\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:98668\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:23235495\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:22694199\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:185307\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:185307\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:162753\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:49354510\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:48204742\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:393556\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:393556\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:345649\n"
+        }
+    },
+    "8726c72e32fbda388b10f03de3a2c275": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:1928599\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:1883671\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:15415\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:15415\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:13543\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:4821439\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:4709119\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:38479\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:38479\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:33799\n"
+        },
+        "4": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:12405883\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:12116875\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:98959\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:98959\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:86917\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:47333231\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:46230551\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:377441\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:377441\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:331496\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:68890457\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:67285577\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:549317\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:549317\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:482447\n"
+        }
+    },
+    "bcf471a8f9b4391c7d03379b2ae24739": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:417273\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:407553\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:3363\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:3363\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:2958\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:69808378\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68182114\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:556636\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:556636\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:488875\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:87629015\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:85587599\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:698717\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:698717\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:613658\n"
+        }
+    },
+    "c928deca8f8379c96935d3449412f1be": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:32535231\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:31777287\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:259449\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:259449\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:227868\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:81555907\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:79655971\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:650299\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:650299\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:571135\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:81648626\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:79746530\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:651038\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:651038\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:571784\n"
+        }
+    },
+    "1fc59b9c73f527df121d65ea68a107be": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:25015697\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:24432929\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:199493\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:199493\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:175211\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:67202961\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:65637393\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:535857\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:535857\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:470625\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:76734498\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:74946882\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:611850\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:611850\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:537366\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82000959\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80090655\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:653847\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:653847\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:574251\n"
+        }
+    },
+    "7ff39aaab614c27ec2caf55b5e2e3168": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3773708\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3685796\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:30122\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:30122\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:26459\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:34983020\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:34168052\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:278966\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:278966\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:245009\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:46712015\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:45623807\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:372491\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:372491\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:327149\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:48668385\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:47534601\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:388083\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:388083\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:340842\n"
+        }
+    },
+    "ff9d65cebcbaaeca6379eb6cb73a576c": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:42178047\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:41195463\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:336345\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:336345\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:295404\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82047319\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80135935\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:654217\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:654217\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:574576\n"
+        }
+    },
+    "32aa977d3b49159d95b7aeb1f5d19ac8": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:15280183\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:14924215\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:121879\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:121879\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:107047\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:24552098\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:23980130\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:195794\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:195794\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:171962\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:80647256\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:78768488\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:643052\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:643052\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:564770\n"
+        }
+    },
+    "5a61761418a8db2ccdff2b2aacc3a64e": {
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:24876617\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:24297089\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:198383\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:198383\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:174236\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:25099144\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:24514432\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:200158\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:200158\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:175795\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:26425032\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:25809432\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:210732\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:210732\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:185082\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:85014330\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:83033826\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:677868\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:677868\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:595347\n"
+        }
+    },
+    "bf0620fc9bef34e009e7c7c1c768ece8": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:85125592\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:83142496\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:678754\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:678754\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:596125\n"
+        }
+    },
+    "2a49aa4a4e854350246899ffc66811c": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:47602118\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:46493174\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:379586\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:379586\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:333380\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:57829049\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:56481857\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:461123\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:461123\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:404990\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:81982415\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80072543\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:653699\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:653699\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:574121\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82742712\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80815128\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:659760\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:659760\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:579444\n"
+        }
+    },
+    "5cb4d8162ca91ac674c83816b4ac0183": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:19471091\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:19017491\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:155291\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:155291\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:136391\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:36800319\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:35943015\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:293457\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:293457\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:257736\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:43392669\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:42381789\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:346029\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:346029\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:303909\n"
+        }
+    },
+    "41dd6d6e829368c97496fee3904129cf": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14306627\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:13973339\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:114113\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:114113\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:100226\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:46674927\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:45587583\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:372195\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:372195\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:326889\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:72293254\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:70609102\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:576448\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:576448\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:506275\n"
+        }
+    },
+    "68328fd088e36e1ab4f79f2926550b9c": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:57764146\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:56418466\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:460606\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:460606\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:404536\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:86228953\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:84220153\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:687553\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:687553\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:603853\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:86701821\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:84682005\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:691323\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:691323\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:607164\n"
+        }
+    },
+    "8284b9d64e16b913f0d96cdf3c26fa42": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:1316654\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:1285982\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:10538\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:10538\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:9260\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:33406796\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:32628548\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:266402\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:266402\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:233975\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:83020872\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:81086808\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:661980\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:661980\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:581394\n"
+        }
+    },
+    "a155cd046b51a0c442f57f1a2baa826c": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:41751537\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:40778889\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:332943\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:332943\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:292416\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:57986671\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:56635807\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:462379\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:462379\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:406093\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:58487356\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:57124828\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:466372\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:466372\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:409600\n"
+        }
+    },
+    "2368315bf440e36dd9034e6c716715c2": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:15855043\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:15485683\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:126463\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:126463\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:111073\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:22873891\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:22341019\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:182425\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:182425\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:160222\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:53257992\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:52017288\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:424680\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:424680\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:372984\n"
+        }
+    },
+    "68cc6ddab72a344d0191550252b83747": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:21798344\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:21290528\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:173846\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:173846\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:152687\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:32692854\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:31931238\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:260706\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:260706\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:228972\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:51218170\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:50024986\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:408418\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:408418\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:358702\n"
+        }
+    },
+    "45e0b78a892812f89a7ef0626bf4d81": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3606812\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3522788\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:28790\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:28790\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:25289\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:13564874\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:13248866\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:108200\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:108200\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:95033\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:23903065\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:23346217\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:190621\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:190621\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:167419\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:78403449\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:76576953\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:625161\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:625161\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:549057\n"
+        }
+    },
+    "878b4e5b056cd8ca224ce78df6bd4047": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:1047767\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:1023359\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:8393\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:8393\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:7376\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:10616399\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:10369079\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:84689\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:84689\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:74384\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:19554538\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:19098994\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:155956\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:155956\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:136975\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:77902763\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:76087931\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:621167\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:621167\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:545549\n"
+        }
+    },
+    "a0bb186784f31dc4eb81778da2a89bf5": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:6722187\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:6565587\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:53637\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:53637\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:47112\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:81639354\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:79737474\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:650964\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:650964\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:571719\n"
+        }
+    },
+    "dd11b9eb3851377212f5f14b4722b3b2": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:29716564\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:29024284\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:236974\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:236974\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:208129\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:41111776\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:40154032\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:327844\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:327844\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:287938\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:89872813\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:87779125\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:716599\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:716599\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:629362\n"
+        }
+    },
+    "3a19d345bfb220d6c7c9f18e4c27ad4c": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:12350251\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:12062539\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:98515\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:98515\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:86527\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:26007794\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:25401914\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:207404\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:207404\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:182159\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:43791364\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:42771196\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:349210\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:349210\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:306703\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:51134722\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:49943482\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:407752\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:407752\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:358117\n"
+        }
+    },
+    "d128a9d925dcbed1c2940b3d95f2617f": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:70401781\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68761693\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:561367\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:561367\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:493030\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:70531588\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68888476\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:562402\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:562402\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:493939\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82102951\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80190271\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:654661\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:654661\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:574966\n"
+        }
+    },
+    "c5ce3de43ef834f9f4b1a713571f9334": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:4181671\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:4084255\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:33373\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:33373\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:29314\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:26499208\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:25881880\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:211324\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:211324\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:185602\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:39758069\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:38831861\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:317045\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:317045\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:278453\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:80192932\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:78324748\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:639430\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:639430\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:561589\n"
+        }
+    },
+    "c737fd48a4bd717f0aaafa70cae39475": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:28316504\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:27656840\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:225812\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:225812\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:198326\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:30764292\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:30047604\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:245328\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:245328\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:215466\n"
+        }
+    },
+    "487f011b6884da89f54ea02b1b725e29": {
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3699532\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3613348\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:29530\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:29530\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:25939\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:41807169\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:40833225\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:333387\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:333387\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:292806\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:60796062\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:59379750\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:484776\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:484776\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:425763\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82390380\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80471004\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:656952\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:656952\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:576978\n"
+        }
+    },
+    "6f965389f1ab87d9434c0be2b42aadba": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:35428073\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:34602737\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:282515\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:282515\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:248126\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:45719919\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:44654823\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:364581\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:364581\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:320202\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:75723857\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:73959785\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:603791\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:603791\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:530288\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:83206306\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:81267922\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:663454\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:663454\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:582688\n"
+        }
+    },
+    "df2f37bf2633a7a5117547b17093e214": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:32525959\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:31768231\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:259375\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:259375\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:227803\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:39127576\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:38216056\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:312016\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:312016\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:274036\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:54899116\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:53620180\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:437758\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:437758\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:384469\n"
+        }
+    },
+    "f810fd1d7a7c5ebc8adec8ca48a20043": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:40462738\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:39520114\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:322666\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:322666\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:283390\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:53851389\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:52596861\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:429405\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:429405\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:377133\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:59627797\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:58238701\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:475459\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:475459\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:417580\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:64115411\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:62621771\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:511241\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:511241\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:449006\n"
+        }
+    },
+    "489b1c7118d2a3629ada4809eccedd65": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:17496177\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:17088585\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:139551\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:139551\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:122568\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:59034398\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:57659126\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:470732\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:470732\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:413429\n"
+        }
+    },
+    "27522c42d34ecca3051d8f56ba474b99": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14556970\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:14217850\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:116110\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:116110\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:101980\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:36791047\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:35933959\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:293383\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:293383\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:257671\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:54509693\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:53239829\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:434651\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:434651\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:381740\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:69993816\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68363232\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:558114\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:558114\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:490173\n"
+        }
+    },
+    "30443256fb92572428bb32589e06b482": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:50865836\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:49680860\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:405608\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:405608\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:356234\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:60332463\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:58926951\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:481077\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:481077\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:422514\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:68983176\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:67376136\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:550056\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:550056\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:483096\n"
+        }
+    },
+    "55b8a5594f4fd6b29819cee40d1d1300": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:36197642\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:35354378\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:288650\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:288650\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:253514\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:37662611\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:36785219\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:300335\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:300335\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:263777\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:69678571\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68055331\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:555601\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:555601\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:487966\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:88519117\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:86456965\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:705811\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:705811\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:619888\n"
+        }
+    },
+    "1d141edc3450641f65a43d7d4e29e1a5": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:741793\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:724513\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:5953\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:5953\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:5233\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14955664\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:14607256\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:119290\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:119290\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:104773\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:19063126\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:18619030\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:152038\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:152038\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:133534\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:45228510\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:44174862\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:360666\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:360666\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:316764\n"
+        }
+    },
+    "951a8830636ea924196e08a744749103": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:4320751\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:4220095\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:34483\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:34483\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:30289\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:52794395\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:51564491\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:420983\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:420983\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:369737\n"
+        }
+    },
+    "d3b42832034d158e54b6cafbcdda3ba6": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:352369\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:344161\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:2845\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:2845\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:2503\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:39544815\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:38623575\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:315345\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:315345\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:276960\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:81166485\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:79275621\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:647193\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:647193\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:568407\n"
+        }
+    },
+    "ce0f29dbd7a322aa4dc1199ae263af16": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:33508785\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:32728161\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:267213\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:267213\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:234687\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:48983632\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:47842504\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:390598\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:390598\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:343051\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:75566234\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:73805834\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:602534\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:602534\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:529184\n"
+        }
+    },
+    "d9ac19b9a2b4876bcfade0122bf8cefd": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:16123930\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:15748306\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:128608\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:128608\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:112957\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:62205398\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:60756254\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:496016\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:496016\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:435635\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:89223781\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:87145213\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:711427\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:711427\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:624820\n"
+        }
+    },
+    "dc3afbc3ded5193f5d13aabf4632e9be": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:4163127\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:4066143\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:33225\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:33225\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:29184\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:8493125\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:8295269\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:67757\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:67757\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:59513\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:25210408\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:24623104\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:201046\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:201046\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:176575\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:46999443\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:45904539\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:374781\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:374781\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:329160\n"
+        }
+    },
+    "b0cb5350f3af484656a36b23349e90ce": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:13629778\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:13312258\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:108718\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:108718\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:95488\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:66971162\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:65410994\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:534008\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:534008\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:469001\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:74713219\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:72972691\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:595735\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:595735\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:523213\n"
+        }
+    },
+    "c47a1dca056161ba6b53ab3ebfdc4eab": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:18608804\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:18175292\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:148418\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:148418\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:130355\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:61899424\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:60457408\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:493576\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:493576\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:433492\n"
+        }
+    },
+    "c85d812dc7bfaef0e59d96fbb20914fe": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3560454\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3477510\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:28422\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:28422\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:24966\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:56985302\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:55657766\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:454394\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:454394\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:399080\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:63827982\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:62341038\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:508950\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:508950\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:446994\n"
+        }
+    },
+    "8de2d798f39945d58d4a8a51ce00077b": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14714594\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:14371802\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:117368\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:117368\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:103085\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:38543444\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:37645532\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:307358\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:307358\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:269945\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:77986211\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:76169435\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:621833\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:621833\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:546134\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:78616701\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:76785237\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:626859\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:626859\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:550548\n"
+        }
+    },
+    "3d271756269ef7ab523eea2148121a1c": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:37848049\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:36966337\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:301813\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:301813\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:265075\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:51051275\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:49861979\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:407087\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:407087\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:357533\n"
+        }
+    },
+    "ff72e0d4ebbe14595f69b5f27b30a4e1": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:25062057\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:24478209\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:199863\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:199863\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:175536\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:48149160\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:47027472\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:383946\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:383946\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:337209\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:55928302\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:54625390\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:445966\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:445966\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:391678\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:60137753\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:58736777\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:479525\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:479525\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:421151\n"
+        }
+    },
+    "e3c99fcaa003ac9d9e75597ce6d22859": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:35187002\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:34367282\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:280592\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:280592\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:246437\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:53795758\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:52542526\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:428962\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:428962\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:376744\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:64226673\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:62730441\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:512127\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:512127\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:449784\n"
+        }
+    },
+    "73332e28dca839a86001a73c9eda7061": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:35845308\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:35010252\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:285840\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:285840\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:251046\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:52720219\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:51492043\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:420391\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:420391\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:369217\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:85793171\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:83794523\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:684077\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:684077\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:600800\n"
+        }
+    },
+    "bf01c74257cfbe89a718273b28943bd9": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:16754420\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:16364108\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:133634\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:133634\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:117371\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:65098235\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:63581699\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:519077\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:519077\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:455888\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:80276379\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:78406251\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:640095\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:640095\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:562173\n"
+        }
+    },
+    "8b200a32f326c16919fdd4b94900b29e": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:34853213\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:34041269\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:277931\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:277931\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:244100\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82473828\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80552508\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:657618\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:657618\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:577563\n"
+        }
+    },
+    "d3d1b3895b5ac23cd6f4a84a4c6fab46": {
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:14186092\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:13855612\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:113152\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:113152\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:99382\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:21408923\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:20910179\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:170741\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:170741\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:149960\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:63030598\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:61562230\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:502594\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:502594\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:441412\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82306932\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80389500\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:656286\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:656286\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:576393\n"
+        }
+    },
+    "1da7bacf27220e119f7e1cc5a7b988de": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:10393872\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:10151736\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:82914\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:82914\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:72825\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:12192628\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:11908588\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:97258\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:97258\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:85423\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:29864916\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:29169180\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:238158\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:238158\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:209169\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:62465012\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:61009820\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:498086\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:498086\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:437453\n"
+        }
+    },
+    "14e96e24b54103b8366d07b905f8a645": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:19498907\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:19044659\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:155513\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:155513\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:136586\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:33397524\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:32619492\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:266328\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:266328\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:233910\n"
+        }
+    },
+    "734178fcaa3e4ff04478f1203aec7460": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:28344320\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:27684008\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:226034\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:226034\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:198521\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:53934837\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:52678365\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:430071\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:430071\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:377718\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:82668538\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:80742682\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:659170\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:659170\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:578926\n"
+        }
+    },
+    "5b7bea20e211e378461b2387522a66fd": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:47194154\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:46094714\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:376334\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:376334\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:330524\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:69771290\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:68145890\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:556340\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:556340\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:488615\n"
+        },
+        "3": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:74490695\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:72755351\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:593963\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:593963\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:521657\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:74527783\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:72791575\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:594259\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:594259\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:521917\n"
+        }
+    },
+    "9264e7b99ae594c1715597053bc32ce1": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3708804\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3622404\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:29604\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:29604\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:26004\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:39535543\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:38614519\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:315271\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:315271\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:276895\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:72219082\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:70536658\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:575860\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:575860\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:505759\n"
+        }
+    },
+    "848536c6de2932595a09a6cf40aa73c1": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:3634628\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:3549956\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:29012\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:29012\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:25484\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:20815518\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:20330598\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:166008\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:166008\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:145803\n"
+        }
+    },
+    "dab278e93cb5fb337532a47a13988a53": {
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:10968734\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:10713206\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:87500\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:87500\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:76853\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:23031514\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:22494970\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:183682\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:183682\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:161326\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:39572631\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:38650743\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:315567\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:315567\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:277155\n"
+        }
+    },
+    "54e1e10a0c85a494d775c4b3221fbbcd": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:27927081\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:27276489\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:222705\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:222705\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:195597\n"
+        },
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:55650143\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:54353711\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:443747\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:443747\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:389729\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:74092001\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:72365945\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:590783\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:590783\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:518864\n"
+        }
+    },
+    "ab598769f304086828200977af271103": {
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:7241416\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:7072720\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:57778\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:57778\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:50749\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:84189128\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:82227848\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:671288\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:671288\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:589568\n"
+        }
+    },
+    "f3c31a583e2336d755ec683a9707e64c": {
+        "2": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:30801380\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:30083828\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:245624\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:245624\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:215726\n"
+        },
+        "0": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:31366970\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:30636242\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:250136\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:250136\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:219689\n"
+        },
+        "1": {
+            "textfeat": "./pretrained/data_pretrained/traintextfeats.ark:80535994\n",
+            "imagefeat": "./pretrained/data_pretrained/trainimagefeats.ark:78659818\n",
+            "textprob": "./pretrained/data_pretrained/traintextprob.ark:642166\n",
+            "imageprob": "./pretrained/data_pretrained/trainimageprob.ark:642166\n",
+            "label": "./pretrained/data_pretrained/trainlabel.ark:563992\n"
+        }
+    }
+}
