@@ -1,6 +1,6 @@
 #!/bin/bash -u
 
-pandir=/media/wentao/Data/Gradient_blending_PAN18/pan18 #./pan18		# Please download PAN18 dataset and save in ./pan18 folder
+pandir=./pan18		# Please download PAN18 dataset and save in ./pan18 folder
 datadir=./Dataset
 Imagedir=./Image
 results=./trained 
